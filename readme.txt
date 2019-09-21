@@ -12,5 +12,4 @@ add another line
 Now I have a remote repository!
 
 It's in dev branch
-
-Now i'm in master branch
+merge feature1 to master
