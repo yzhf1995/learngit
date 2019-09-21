@@ -12,4 +12,4 @@ add another line
 Now I have a remote repository!
 
 It's in dev branch
-
+It's ready released！
